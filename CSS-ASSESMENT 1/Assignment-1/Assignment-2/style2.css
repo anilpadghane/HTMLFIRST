@@ -1,0 +1,217 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+body{
+	
+
+    background-image: url(./www.jpg);
+    width: 98%;
+    border: 8px groove greenyellow;
+    margin: auto;
+
+}
+
+.col1{
+	width: 30%;
+	/* margin-right: auto; */
+	text-align: center;
+	line-height: 50px;
+	background-color: black;
+    font-size: xx-large;
+	/* margin: ; */
+	margin-bottom: 5px;
+	margin-right: 5px;
+	color: white;
+	padding: 5px;
+	border: 5px solid red;
+	/* border: ; */
+	border-radius: 40px;
+	left: 54px;
+    position: relative;
+	flex: 1;
+}	
+.col2{
+	width: 30%;
+	/* margin-right: auto; */
+	position: relative;
+	right: 90px;
+	top: 13px;
+	text-align: center;
+	line-height: 35px;
+	background-color: black;
+	/* margin: ; */
+	margin-bottom: 80px;
+	margin-right: 10px;
+	color: white;
+	padding: 5px;
+	border: 5px solid red;
+	/* border: ; */
+	border-radius: 30px;
+	font-size: xx-large;
+	flex: 1;
+	padding-top: 30px;
+	font-style: oblique;
+}
+#welCome{
+	font-size: xx-large;
+    font-weight: bold;
+    font-style: oblique;
+    padding-top: 10px;
+    padding-right:80px;
+}
+.col3{
+	flex: 1;
+	width: 30%;
+	/* margin-left: auto; */
+	text-align: center;
+	line-height: 55px;
+	background-color: black;
+	/* margin: ; */
+	margin-bottom: 10px;
+	margin-right: 6px;
+	color: white;
+	padding: 5px;
+	border: 5px solid red;
+	/* border: ; */
+	border-radius: 40px;
+	font-size: xx-large;
+	font-style: italic;
+}
+/* Form and Circle css */
+.form-1{
+	border: 5px dashed red;
+    width: 35%;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    left: 225px;
+	
+}
+
+form h2{
+	font-weight: 700;
+    font-size: 40px;
+    color: rgb(225, 71, 71);
+	padding-top: 28px;
+    padding-bottom: 20px;
+
+}
+.fname ,.lname{
+	color:  rgb(225, 71, 71);
+	font-size: xx-large;
+}
+.firstName,.lastName{
+	font-size: x-large;
+}
+/* Exciting offers */
+.circle{
+
+	width: 422px;
+    background-color: #13cabbf7;
+    color: #000;
+    text-align: center;
+    border: 9px solid gray;
+    border-radius: 50%;
+    height: 412px;
+    position: relative;
+    left: 50px;
+    top: 340px;	
+}
+.incircle1{
+	position: relative;
+    top: 100px;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: underline;
+}
+.hr1{
+	position: relative;
+    top: 132px;
+}
+.incircle2{
+	position: relative;
+    top: 152px;
+    font-size: x-large;
+    /* font-width: bold; */
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: 700;
+}
+.hr2{
+	position: relative;
+    top: 178px;
+}
+.incircle3{
+	position: relative;
+    top: 210px;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: underline;
+}
+/* menu */
+.menu{
+	padding-bottom: 20px;
+    
+    padding-top: 20px;
+    text-align: center;
+    position: relative;
+    left: 395px;
+    border: 5px solid red;
+
+    padding-left: 233px;
+    background-color: #000;
+    padding-right: 233px;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+    border-radius: 40px;
+	bottom: 42px;
+
+}
+/* menu */
+.card1{
+	border: 5px solid darkgreen;
+    width: 30%;
+    border-radius: 35px;
+    text-align: center;
+    background-color: aqua;
+}
+.menuStarter{
+	font-size: xx-large;
+    font-weight: 700;
+    padding: 20px;
+    color: purple;
+}
+.card1 ul{
+	
+    font-size: 30px;
+    font-family: ui-monospace;
+    padding: 27px;
+    color: purple;
+
+}
+.TandoorBreads{
+	font-size: xx-large;
+    font-weight: 700;
+    padding: 20px;
+    color: purple;
+}
+.Pcard{
+	border: 5px solid darkgreen;
+    width: 30%;
+    border-radius: 35px;
+    text-align: center;
+    background-color: aqua;
+}
+.cardList{
+	
+    font-size: 30px;
+    font-family: ui-monospace;
+    padding: 27px;
+    color: purple;
+
+}
