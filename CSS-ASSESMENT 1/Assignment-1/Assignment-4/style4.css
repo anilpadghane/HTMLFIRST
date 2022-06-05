@@ -152,8 +152,12 @@
     font-size: 30px;
 }
 .border{
-    border: 1px darkgreen;
-
+       display: grid;
+    grid-template-areas: "hh hh hh mm mm mm mm ss ss ss ss ll ll"
+                         "ff ff ff ff ff ff ff ff ff ff ff ll ll"
+                         "tt tt tt tt tt tt tt tt tt tt tt tt tt";
+    border:2px solid darkgreen;
+    margin-top: 30px;
 }
 .footer {
     text-align: center;
